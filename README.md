@@ -1,7 +1,7 @@
-# udemig-proje-websitesi
+# Udemig-proje-websitesi
 
 Bu bir okul projesidir.
 
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 HTML-CSS
